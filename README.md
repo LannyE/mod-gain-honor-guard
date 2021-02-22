@@ -1,7 +1,7 @@
 # This is a module for  ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 ## Gain Honor Guard - Module 
 
-Servers that are for Solo or are very low populated may have a difficult time to gain Honor, due to no battlegrounds or world PVP happening.  
+Players on servers that are for Solo or are very low populated may have a difficult time gaining Honor, due to no battlegrounds or world PVP happening.  
 
 This module gives players the ablilty to farm Guards and/or Elites for Honor.
 
